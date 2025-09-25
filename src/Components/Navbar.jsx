@@ -31,7 +31,7 @@ const Navbar = () => {
           <i class="ri-linkedin-fill"></i>linkedin
         </a>
         <a className="text-3xl flex items-center gap-1 hover:text-red-700" href="https://dribbble.com/imkuttu123">
-          <i class="ri-dribbble-fill"></i>Dribble
+          <i class="ri-dribbble-fill">i</i>Dribble
         </a>
       </div>
     </div>
